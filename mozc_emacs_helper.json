@@ -4,7 +4,8 @@
   "license": "BSD-3-Clause",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/annenpolka/mozc_emacs_helper/raw/master/mozc_emacs_helper.exe"
+      "url": "https://github.com/annenpolka/mozc_emacs_helper/raw/master/mozc_emacs_helper.exe",
+      "hash": "d61918b993212b16a1d5eae15bb23b5d48959d2656b6efc8a5408d7a3102e0a6"
     }
   },
   "bin": "mozc_emacs_helper.exe"
