@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "homepage": "https://www.kaoriya.net/software/cmigemo/",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://files.kaoriya.net/goto/cmigemo_w64"
+    }
+  },
+  "bin": "cmigemo-default-win64/cmigemo.exe"
+}
