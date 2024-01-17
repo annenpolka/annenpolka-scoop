@@ -4,7 +4,10 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://files.kaoriya.net/goto/cmigemo_w64"
+      "url": "https://files.kaoriya.net/cmigemo/cmigemo-default-win64-20110227.zip"
+    },
+    "32bit": {
+      "url": "https://files.kaoriya.net/cmigemo/cmigemo-default-win32-20110227.zip"
     }
   },
   "bin": "cmigemo-default-win64/cmigemo.exe"
